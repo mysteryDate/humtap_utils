@@ -1,0 +1,241 @@
+{
+    "preparation": [
+        {
+            "classAttributes": [
+                "totalDur"
+            ],
+            "compositionFunctions": [
+                {
+                    "args": {
+                        "clips": [],
+                        "stylisticMarkers": "fourOnTheFloor",
+                        "totalDur": "totalDur"
+                    },
+                    "name": "collectOnsets"
+                }
+            ],
+            "name": "staticBeatOnsets"
+        },
+        {
+            "classAttributes": [
+                "reducedMelody"
+            ],
+            "compositionFunctions": [
+                {
+                    "args": {
+                        "pitchClassMapName": "legatoStaccato11",
+                        "reducedMelody": "reducedMelody",
+                        "transitionMapName": "legatoStaccato11"
+                    },
+                    "name": "getChordProgression"
+                }
+            ],
+            "name": "chordProgression"
+        }
+    ],
+    "tracks": [
+        {
+            "classAttributes": [
+                "humClip",
+                "chordProgression",
+                "scaleMatcher",
+                "leadClip",
+                "totalDur",
+                "tonic"
+            ],
+            "compositionFunctions": [
+                {
+                    "args": {
+                        "clip": "humClip",
+                        "scaleMatcher": "scaleMatcher"
+                    },
+                    "name": "scaleMatch"
+                },
+                {
+                    "args": {
+                        "clip": "leadClip",
+                        "pitchRange": [
+                            60,
+                            72
+                        ]
+                    },
+                    "name": "transposeToRange"
+                },
+                {
+                    "args": {
+                        "input": [
+                            "trance_lead.mid",
+                            "trance_lead2.mid",
+                            "trance_lead3.mid",
+                            "trance_lead4.mid"
+                        ],
+                        "output": "arpeggiationPattern"
+                    },
+                    "name": "randomSelector"
+                },
+                {
+                    "args": {
+                        "clip": "leadClip",
+                        "arpeggiationMidiFile": "arpeggiationPattern",
+                        "totalDur": "totalDur"
+                    },
+                    "name": "arpeggiateMelody"
+                },
+                {
+                    "args": {
+                        "clip": "leadClip",
+                        "maxVelocity": 90,
+                        "minVelocity": 127
+                    },
+                    "name": "normalizeVelocities"
+                }
+            ],
+            "role" : "lead",
+            "graphFiles": [
+                "rooms/trance_lead1.graph"
+            ],
+            "name": "leadClip",
+            "renderMethods": [
+                "humtap",
+                "lead"
+            ]
+        },
+        {
+            "classAttributes": [
+                "totalDur",
+                "drumsClip"
+            ],
+            "compositionFunctions": [
+                {
+                    "args": {
+                        "fileName": "trance_drums_metapattern.mid",
+                        "totalDur": "totalDur"
+                    },
+                    "name": "getMetaPatternClip"
+                }
+            ],
+            "role": "drums",
+            "graphFiles": [
+                "rooms/trance_drums.graph"
+            ],
+            "name": "drumsClip",
+            "renderMethods": [
+                "humtap",
+                "drums",
+                "rhythmGroup"
+            ]
+        },
+        {
+            "classAttributes": [
+                "chordProgression",
+                "tonic",
+                "totalDur",
+                "bassClip"
+            ],
+            "compositionFunctions": [
+                {
+                    "args": {
+                        "input": [
+                            "trance_bass_pattern1.mid",
+                            "trance_bass_pattern2.mid"
+                        ],
+                        "output": "bassPattern"
+                    },
+                    "name": "randomSelector"
+                },
+                {
+                    "args": {
+                        "fileName": "bassPattern",
+                        "totalDur": "totalDur"
+                    },
+                    "name": "getRhythmicClip"
+                },
+                {
+                    "args": {
+                        "clip": "bassClip",
+                        "newTonic": "tonic",
+                        "chordProgression": "chordProgression",
+                        "diatonic": false
+                    },
+                    "name": "transposeClipByChordProgression"
+                },
+                {
+                    "args": {
+                        "clip": "bassClip",
+                        "pitchRange": [
+                            36,
+                            52
+                        ]
+                    },
+                    "name": "transposeToRange"
+                }
+            ],
+            "role": "bass",
+            "graphFiles": [
+                "rooms/trance_bass1.graph"
+            ],
+            "name": "bassClip",
+            "renderMethods": [
+                "humtap",
+                "accompaniment",
+                "bass",
+                "rhythmGroup"
+            ]
+        },
+        {
+            "classAttributes": [
+                "tonic",
+                "totalDur",
+                "chordsClip",
+                "chordProgression"
+            ],
+            "compositionFunctions": [
+                {
+                    "args": {
+                        "quarterBeats": [1],
+                        "pitchGroups": [[12,16,19]],
+                        "quarterLengthGroups": [[1,1,1]]
+                    },
+                    "name": "createRhythmicClip"
+                },
+                {
+                    "args": {
+                        "clip": "chordsClip",
+                        "loopDuration": 4,
+                        "totalDur": "totalDur"
+                    },
+                    "name": "getLoopedClip"
+                },
+                {
+                    "args": {
+                        "clip": "chordsClip",
+                        "newTonic": "tonic",
+                        "chordProgression": "chordProgression"
+                    },
+                    "name": "transposeClipByChordProgression"
+                },
+                {
+                    "args": {
+                        "clip": "chordsClip",
+                        "pitchRange": [
+                            72,
+                            84
+                        ]
+                    },
+                    "name": "transposeToRange"
+                }
+            ],
+            "role": "chords",
+            "graphFiles": [
+                "rooms/trance_stab1.graph"
+            ],
+            "name": "chordsClip",
+            "renderMethods": [
+                "humtap",
+                "accompaniment",
+                "chords",
+                "rhythmGroup"
+            ]
+        }
+    ]
+}
