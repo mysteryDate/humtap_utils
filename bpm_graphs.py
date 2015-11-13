@@ -21,21 +21,22 @@ def main():
 		bpms.append(entry)
 
 	plotData = []
-	xvalues = [_ for _ in range(MIN_TEMPO, MAX_TEMPO + 1)]
-	yvalues0 = [0 for x in xvalues]
+	allx = [_ for _ in range(MIN_TEMPO, MAX_TEMPO + 1)]
+	ytotal = [0 for x in allx]
 	sortedBpms = sorted(bpms, key=lambda arr: arr[1][0])
 	for arr in sortedBpms:
-		yvalues = [arr[2] + y if x > arr[1][0] and x < arr[1][1] else y for (x,y) in zip(xvalues, yvalues0)]
+		ytotal = [arr[2] + y if x > arr[1][0] and x < arr[1][1] else y for (x,y) in zip(allx, ytotal)]
+		xvalues = [x for x in range(arr[1][0], arr[1][1] + 1)]
+		yvalues = [ytotal[x - MIN_TEMPO] for x in xvalues]
 		trace = go.Scatter(
 			x = xvalues,
 			y = yvalues,
 			mode = 'lines',
-			line = dict(width=0.1),
+			line = dict(width=1),
 			fill = 'tonexty',
 			name = arr[0].split('.json')[0]
 		)
 		plotData.append(trace)
-		yvalues0 = yvalues
 
 	layout = go.Layout(
 		showlegend=True,
