@@ -2,7 +2,6 @@ import json, pdb
 import plotly.plotly as plotly
 import plotly.graph_objs as go
 import numpy as np
-import math
 
 MIN_TEMPO = 60
 MAX_TEMPO = 220
@@ -14,7 +13,7 @@ def main():
 	with open("tempi_dist.txt", "r") as infile:
 		userTempos = infile.readlines()
 
-	nearest5s = [5 * int(math.floor(float(x)/5)) for x in userTempos]
+	nearest5s = [int(round(float(x))) for x in userTempos]
 	tempoDistribution = {}
 	for tempo in nearest5s:
 		if tempo not in tempoDistribution:
@@ -22,7 +21,7 @@ def main():
 		tempoDistribution[tempo] += 1
 	# pdb.set_trace()
 
-	genre = "dance"
+	genre = "hiphop"
 	bpms = []
 	for arr in data[genre]:
 		entry = (arr, 
@@ -32,8 +31,18 @@ def main():
 		bpms.append(entry)
 
 	plotData = []
-	lineData = []
+
 	allx = [_ for _ in range(MIN_TEMPO, MAX_TEMPO + 1)]
+	tempoTrace = go.Scatter(
+		x = allx,
+		y = [tempoDistribution[x] if x in tempoDistribution else 0 for x in allx],
+		mode = 'lines',
+		fill = 'tonexty',
+		name = 'User Tempos'
+	)
+	
+
+	lineData = []
 	ytotal = [0 for x in allx]
 	sortedBpms = sorted(bpms, key=lambda arr: arr[1][0])
 	for arr in sortedBpms:
@@ -60,7 +69,8 @@ def main():
 			name = arr[0].split('.json')[0]
 		)
 		plotData.append(fill)
-		plotData.append(lineTrace)
+		lineData.append(lineTrace)
+	plotData.append(tempoTrace)
 
 	layout = go.Layout(
 		showlegend=True,
@@ -70,7 +80,7 @@ def main():
 
 	plotly.sign_in("MysteryDate", "a6fd7sm5jr")
 
-	fig = go.Figure(data=plotData, layout=layout)
+	fig = go.Figure(data=plotData+lineData, layout=layout)
 	plot_url = plotly.plot(fig, filename="{gen} bpms".format(gen=genre))
 
 main()	
