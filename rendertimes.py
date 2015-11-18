@@ -31,19 +31,19 @@ def main():
     graphData = []
     for arr in arrangementData:
         trace = go.Scatter(
-            x = [d['loopLength'] for d in arrangementData[arr]],
+            x = [d['vsts'] for d in arrangementData[arr]],
             y = [d['totalTime'] for d in arrangementData[arr]],
             mode = 'markers',
             name = arr,
-            text = ["Hum: "+d['hum']+"<br>Number of VSTs: "+str(d['vsts']) for d in arrangementData[arr]]
+            text = ["Hum:\t"+d['hum']+"<br>Length:\t"+str(round(float(d['loopLength'])/44100,2))+"s" for d in arrangementData[arr]]
         )
         graphData.append(trace)
 
     layout = go.Layout(
-        title='Render times by loop length for electro',
+        title='Render times by number of VSTs for electro',
         hovermode='closest',
         xaxis=dict(
-            title='Loop length (samples)'
+            title='Number of VSTs'
         ),
         yaxis=dict(
             title='Render time (s)'
@@ -53,6 +53,6 @@ def main():
     py.sign_in("MysteryDate", "a6fd7sm5jr")
 
     fig = go.Figure(data=graphData, layout=layout)
-    plot_url = py.plot(fig, filename="Render times by loopLength for electro (improved)")
+    plot_url = py.plot(fig, filename="Render times by vsts for electro (improved)")
 
 main()
