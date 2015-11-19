@@ -18,51 +18,55 @@ def loadData(path):
 def main():
     rawData = loadData(PATH_TO_DATA)
 
-    arrangementData = {}
-    for datum in rawData:
-        if datum['arr'] not in arrangementData:
-            # arrangementData[datum['arr']] = []
-            arrangementData[datum['arr']] = {
-                'totalTime': datum['totalTime'],
-                'loopLength': datum['loopLength'],
-                'vsts': datum['vsts'],
-                'genre': datum['genre'],
-                # 'hum': datum['hum']
+    data = {}
+    for project in rawData:
+        if project['arr'] not in data:
+            # data[project['arr']] = []
+            data[project['arr']] = {
+                'totalTime': project['totalTime'],
+                'loopLength': project['loopLength'],
+                'vsts': project['vsts'],
+                'genre': project['genre'],
+                'init_time': project['Benchmarks']['Breakdown']['Initialization'],
+                'audio_time': project['Benchmarks']['Breakdown']['Audio Processing'],
+                # 'hum': project['hum']
                 'numRenders': 1
             }
         else:
-            arrangementData[datum['arr']]['totalTime'] += datum['totalTime']
-            arrangementData[datum['arr']]['loopLength'] += datum['loopLength']
-            arrangementData[datum['arr']]['vsts'] += datum['vsts']
-            arrangementData[datum['arr']]['numRenders'] += 1
+            data[project['arr']]['totalTime'] += project['totalTime']
+            data[project['arr']]['loopLength'] += project['loopLength']
+            data[project['arr']]['vsts'] += project['vsts']
+            data[project['arr']]['init_time'] += project['Benchmarks']['Breakdown']['Initialization']
+            data[project['arr']]['audio_time'] += project['Benchmarks']['Breakdown']['Audio Processing']
+            data[project['arr']]['numRenders'] += 1
         # dataToAdd = {
         #     'totalTime': datum['totalTime'],
         #     'loopLength': datum['loopLength'],
         #     'vsts': datum['vsts'],
         #     'hum': datum['hum']
         # }
-        # arrangementData[datum['arr']].append(dataToAdd)
+        # data[datum['arr']].append(dataToAdd)
 
     graphData = []
-    # for arr in arrangementData:
-    #     trace = go.Scatter(
-    #         x = [d['vsts'] for d in arrangementData[arr]],
-    #         y = [d['totalTime'] for d in arrangementData[arr]],
-    #         mode = 'markers',
-    #         name = arr,
-    #         # text = ["Hum:\t"+d['hum']+"<br>Length:\t"+str(round(float(d['loopLength'])/44100,2))+"s" for d in arrangementData[arr]]
-    #     )
-    #     graphData.append(trace)
-    genres = ['electro','rock','hiphop']
-    for genre in genres:
+    for arr in data:
         trace = go.Scatter(
-            x = [float(d['vsts'])/d['numRenders'] for d in arrangementData.values() if d['genre'] == genre],
-            y = [d['totalTime']/d['numRenders'] for d in arrangementData.values() if d['genre'] == genre],
+            x = [d['vsts'] for d in data[arr]],
+            y = [d['totalTime'] for d in data[arr]],
             mode = 'markers',
-            name = genre,
-            text = [d for d in arrangementData if arrangementData[d]['genre'] == genre]
+            name = arr,
+            # text = ["Hum:\t"+d['hum']+"<br>Length:\t"+str(round(float(d['loopLength'])/44100,2))+"s" for d in data[arr]]
         )
         graphData.append(trace)
+    # genres = ['electro','rock','hiphop']
+    # for genre in genres:
+    #     trace = go.Scatter(
+    #         x = [float(d['vsts'])/d['numRenders'] for d in data.values() if d['genre'] == genre],
+    #         y = [d['totalTime']/d['numRenders'] for d in data.values() if d['genre'] == genre],
+    #         mode = 'markers',
+    #         name = genre,
+    #         text = [d for d in data if data[d]['genre'] == genre]
+    #     )
+    #     graphData.append(trace)
 
     layout = go.Layout(
         title='Render times by number of VSTs by arrangement',
@@ -75,9 +79,9 @@ def main():
         ),
     )
 
-    py.sign_in("MysteryDate", "a6fd7sm5jr")
+    # py.sign_in("MysteryDate", "a6fd7sm5jr")
 
-    fig = go.Figure(data=graphData, layout=layout)
-    plot_url = py.plot(fig, filename="Render times by vsts for all arrangements by genre (averaged)")
+    # fig = go.Figure(data=graphData, layout=layout)
+    # plot_url = py.plot(fig, filename="Render times by vsts for all arrangements by genre (averaged)")
 
 main()

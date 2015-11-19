@@ -1,0 +1,1442 @@
+[
+    {
+        "totalTime":9.51,
+        "arr":"brit_rock_alternate",
+        "loopLength":"414310",
+        "hum":"hum_101010",
+        "vsts":41,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":12.92,
+        "arr":"brit_rock",
+        "loopLength":"414310",
+        "hum":"hum_101010",
+        "vsts":50,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"5",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"6"
+            },
+            "Total processing time in s":"11"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":5.18,
+        "arr":"china_alternate",
+        "loopLength":"414310",
+        "hum":"hum_101010",
+        "vsts":28,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":8.28,
+        "arr":"china",
+        "loopLength":"414310",
+        "hum":"hum_101010",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":6.06,
+        "arr":"classic_rock_01_loud",
+        "loopLength":"414310",
+        "hum":"hum_101010",
+        "vsts":29,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":5.53,
+        "arr":"classic_rock_01_soft",
+        "loopLength":"414310",
+        "hum":"hum_101010",
+        "vsts":30,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":3.02,
+        "arr":"classic_rock_01",
+        "loopLength":"414310",
+        "hum":"hum_101010",
+        "vsts":19,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"1"
+            },
+            "Total processing time in s":"2"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":9.27,
+        "arr":"soft_rock",
+        "loopLength":"414310",
+        "hum":"hum_101010",
+        "vsts":37,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":9.94,
+        "arr":"brit_rock_alternate",
+        "loopLength":"548769",
+        "hum":"hum_110000",
+        "vsts":41,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"7"
+            },
+            "Total processing time in s":"9"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":12.78,
+        "arr":"brit_rock",
+        "loopLength":"548769",
+        "hum":"hum_110000",
+        "vsts":50,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"4",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"7"
+            },
+            "Total processing time in s":"12"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":6.36,
+        "arr":"china_alternate",
+        "loopLength":"548769",
+        "hum":"hum_110000",
+        "vsts":28,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":8.05,
+        "arr":"china",
+        "loopLength":"548769",
+        "hum":"hum_110000",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"7"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":7.26,
+        "arr":"classic_rock_01_loud",
+        "loopLength":"548769",
+        "hum":"hum_110000",
+        "vsts":29,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":6.76,
+        "arr":"classic_rock_01_soft",
+        "loopLength":"548769",
+        "hum":"hum_110000",
+        "vsts":30,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":3.39,
+        "arr":"classic_rock_01",
+        "loopLength":"548769",
+        "hum":"hum_110000",
+        "vsts":19,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"1"
+            },
+            "Total processing time in s":"3"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":10.81,
+        "arr":"soft_rock",
+        "loopLength":"548769",
+        "hum":"hum_110000",
+        "vsts":37,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"7"
+            },
+            "Total processing time in s":"10"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":8.93,
+        "arr":"brit_rock_alternate",
+        "loopLength":"465668",
+        "hum":"hum_11001",
+        "vsts":41,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"6"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":11.17,
+        "arr":"brit_rock",
+        "loopLength":"465668",
+        "hum":"hum_11001",
+        "vsts":50,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"3",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"6"
+            },
+            "Total processing time in s":"10"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":5.62,
+        "arr":"china_alternate",
+        "loopLength":"465668",
+        "hum":"hum_11001",
+        "vsts":28,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":6.97,
+        "arr":"china",
+        "loopLength":"465668",
+        "hum":"hum_11001",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":6.22,
+        "arr":"classic_rock_01_loud",
+        "loopLength":"465668",
+        "hum":"hum_11001",
+        "vsts":29,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":5.76,
+        "arr":"classic_rock_01_soft",
+        "loopLength":"465668",
+        "hum":"hum_11001",
+        "vsts":30,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":2.94,
+        "arr":"classic_rock_01",
+        "loopLength":"465668",
+        "hum":"hum_11001",
+        "vsts":19,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"1"
+            },
+            "Total processing time in s":"2"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":9.4,
+        "arr":"soft_rock",
+        "loopLength":"465668",
+        "hum":"hum_11001",
+        "vsts":37,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"6"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":8.73,
+        "arr":"brit_rock_alternate",
+        "loopLength":"440310",
+        "hum":"hum_11111",
+        "vsts":41,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"6"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":11.1,
+        "arr":"brit_rock",
+        "loopLength":"440310",
+        "hum":"hum_11111",
+        "vsts":50,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"3",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"6"
+            },
+            "Total processing time in s":"10"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":5.44,
+        "arr":"china_alternate",
+        "loopLength":"440310",
+        "hum":"hum_11111",
+        "vsts":28,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":6.8,
+        "arr":"china",
+        "loopLength":"440310",
+        "hum":"hum_11111",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":6.26,
+        "arr":"classic_rock_01_loud",
+        "loopLength":"440310",
+        "hum":"hum_11111",
+        "vsts":29,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":5.88,
+        "arr":"classic_rock_01_soft",
+        "loopLength":"440310",
+        "hum":"hum_11111",
+        "vsts":30,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":3.04,
+        "arr":"classic_rock_01",
+        "loopLength":"440310",
+        "hum":"hum_11111",
+        "vsts":19,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"1"
+            },
+            "Total processing time in s":"2"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":9.11,
+        "arr":"soft_rock",
+        "loopLength":"440310",
+        "hum":"hum_11111",
+        "vsts":37,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"6"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":9.72,
+        "arr":"brit_rock_alternate",
+        "loopLength":"544726",
+        "hum":"hum_8664",
+        "vsts":41,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"7"
+            },
+            "Total processing time in s":"9"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":12.44,
+        "arr":"brit_rock",
+        "loopLength":"544726",
+        "hum":"hum_8664",
+        "vsts":50,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"3",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"7"
+            },
+            "Total processing time in s":"11"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":6.23,
+        "arr":"china_alternate",
+        "loopLength":"544726",
+        "hum":"hum_8664",
+        "vsts":28,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":7.92,
+        "arr":"china",
+        "loopLength":"544726",
+        "hum":"hum_8664",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"7"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":7.2,
+        "arr":"classic_rock_01_loud",
+        "loopLength":"544726",
+        "hum":"hum_8664",
+        "vsts":29,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":6.83,
+        "arr":"classic_rock_01_soft",
+        "loopLength":"544726",
+        "hum":"hum_8664",
+        "vsts":30,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":3.3,
+        "arr":"classic_rock_01",
+        "loopLength":"544726",
+        "hum":"hum_8664",
+        "vsts":19,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"1"
+            },
+            "Total processing time in s":"2"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":10.54,
+        "arr":"soft_rock",
+        "loopLength":"544726",
+        "hum":"hum_8664",
+        "vsts":37,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"7"
+            },
+            "Total processing time in s":"10"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":8.74,
+        "arr":"brit_rock_alternate",
+        "loopLength":"449774",
+        "hum":"hum_8666",
+        "vsts":41,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"6"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":11.23,
+        "arr":"brit_rock",
+        "loopLength":"449774",
+        "hum":"hum_8666",
+        "vsts":50,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"3",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"6"
+            },
+            "Total processing time in s":"10"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":5.68,
+        "arr":"china_alternate",
+        "loopLength":"449774",
+        "hum":"hum_8666",
+        "vsts":28,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":6.95,
+        "arr":"china",
+        "loopLength":"449774",
+        "hum":"hum_8666",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":6.65,
+        "arr":"classic_rock_01_loud",
+        "loopLength":"449774",
+        "hum":"hum_8666",
+        "vsts":29,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":6.09,
+        "arr":"classic_rock_01_soft",
+        "loopLength":"449774",
+        "hum":"hum_8666",
+        "vsts":30,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":3.18,
+        "arr":"classic_rock_01",
+        "loopLength":"449774",
+        "hum":"hum_8666",
+        "vsts":19,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"1"
+            },
+            "Total processing time in s":"2"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":9.23,
+        "arr":"soft_rock",
+        "loopLength":"449774",
+        "hum":"hum_8666",
+        "vsts":37,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"6"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":9.61,
+        "arr":"brit_rock_alternate",
+        "loopLength":"497411",
+        "hum":"hum_8679",
+        "vsts":41,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"6"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":11.94,
+        "arr":"brit_rock",
+        "loopLength":"497411",
+        "hum":"hum_8679",
+        "vsts":50,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"3",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"7"
+            },
+            "Total processing time in s":"11"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":5.92,
+        "arr":"china_alternate",
+        "loopLength":"497411",
+        "hum":"hum_8679",
+        "vsts":28,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":7.46,
+        "arr":"china",
+        "loopLength":"497411",
+        "hum":"hum_8679",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":6.85,
+        "arr":"classic_rock_01_loud",
+        "loopLength":"497411",
+        "hum":"hum_8679",
+        "vsts":29,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":6.03,
+        "arr":"classic_rock_01_soft",
+        "loopLength":"497411",
+        "hum":"hum_8679",
+        "vsts":30,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":3.21,
+        "arr":"classic_rock_01",
+        "loopLength":"497411",
+        "hum":"hum_8679",
+        "vsts":19,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"1"
+            },
+            "Total processing time in s":"2"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":9.79,
+        "arr":"soft_rock",
+        "loopLength":"497411",
+        "hum":"hum_8679",
+        "vsts":37,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"6"
+            },
+            "Total processing time in s":"9"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":9.32,
+        "arr":"brit_rock_alternate",
+        "loopLength":"491485",
+        "hum":"hum_8697",
+        "vsts":41,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"6"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":11.67,
+        "arr":"brit_rock",
+        "loopLength":"491485",
+        "hum":"hum_8697",
+        "vsts":50,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"3",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"7"
+            },
+            "Total processing time in s":"10"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":5.93,
+        "arr":"china_alternate",
+        "loopLength":"491485",
+        "hum":"hum_8697",
+        "vsts":28,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":7.36,
+        "arr":"china",
+        "loopLength":"491485",
+        "hum":"hum_8697",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":6.51,
+        "arr":"classic_rock_01_loud",
+        "loopLength":"491485",
+        "hum":"hum_8697",
+        "vsts":29,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":5.76,
+        "arr":"classic_rock_01_soft",
+        "loopLength":"491485",
+        "hum":"hum_8697",
+        "vsts":30,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":3.12,
+        "arr":"classic_rock_01",
+        "loopLength":"491485",
+        "hum":"hum_8697",
+        "vsts":19,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"1"
+            },
+            "Total processing time in s":"2"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":9.51,
+        "arr":"soft_rock",
+        "loopLength":"491485",
+        "hum":"hum_8697",
+        "vsts":37,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"6"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":9.72,
+        "arr":"brit_rock_alternate",
+        "loopLength":"530945",
+        "hum":"hum_8707",
+        "vsts":41,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"7"
+            },
+            "Total processing time in s":"9"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":12.23,
+        "arr":"brit_rock",
+        "loopLength":"530945",
+        "hum":"hum_8707",
+        "vsts":50,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"3",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"7"
+            },
+            "Total processing time in s":"11"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":6.27,
+        "arr":"china_alternate",
+        "loopLength":"530945",
+        "hum":"hum_8707",
+        "vsts":28,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":7.95,
+        "arr":"china",
+        "loopLength":"530945",
+        "hum":"hum_8707",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"7"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":7.25,
+        "arr":"classic_rock_01_loud",
+        "loopLength":"530945",
+        "hum":"hum_8707",
+        "vsts":29,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":6.69,
+        "arr":"classic_rock_01_soft",
+        "loopLength":"530945",
+        "hum":"hum_8707",
+        "vsts":30,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":3.58,
+        "arr":"classic_rock_01",
+        "loopLength":"530945",
+        "hum":"hum_8707",
+        "vsts":19,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"1"
+            },
+            "Total processing time in s":"3"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":11.34,
+        "arr":"soft_rock",
+        "loopLength":"530945",
+        "hum":"hum_8707",
+        "vsts":37,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"7"
+            },
+            "Total processing time in s":"10"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":8.64,
+        "arr":"brit_rock_alternate",
+        "loopLength":"409578",
+        "hum":"hum_8767",
+        "vsts":41,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":10.69,
+        "arr":"brit_rock",
+        "loopLength":"409578",
+        "hum":"hum_8767",
+        "vsts":50,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"3",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"6"
+            },
+            "Total processing time in s":"10"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":5.27,
+        "arr":"china_alternate",
+        "loopLength":"409578",
+        "hum":"hum_8767",
+        "vsts":28,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":6.54,
+        "arr":"china",
+        "loopLength":"409578",
+        "hum":"hum_8767",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":5.99,
+        "arr":"classic_rock_01_loud",
+        "loopLength":"409578",
+        "hum":"hum_8767",
+        "vsts":29,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":5.66,
+        "arr":"classic_rock_01_soft",
+        "loopLength":"409578",
+        "hum":"hum_8767",
+        "vsts":30,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":2.9,
+        "arr":"classic_rock_01",
+        "loopLength":"409578",
+        "hum":"hum_8767",
+        "vsts":19,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"1"
+            },
+            "Total processing time in s":"2"
+        },
+        "genre":"rock"
+    },
+    {
+        "totalTime":8.69,
+        "arr":"soft_rock",
+        "loopLength":"409578",
+        "hum":"hum_8767",
+        "vsts":37,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"rock"
+    }
+]

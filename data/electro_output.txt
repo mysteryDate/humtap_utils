@@ -1,0 +1,2972 @@
+[
+    {
+        "totalTime":7.5,
+        "arr":"chillout_room_03",
+        "loopLength":"414310",
+        "hum":"hum_101010",
+        "vsts":32,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.68,
+        "arr":"deephouse2",
+        "loopLength":"414310",
+        "hum":"hum_101010",
+        "vsts":30,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":9.14,
+        "arr":"deephouse3",
+        "loopLength":"414310",
+        "hum":"hum_101010",
+        "vsts":30,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"3",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.57,
+        "arr":"deephouse_disco",
+        "loopLength":"414310",
+        "hum":"hum_101010",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"7"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.81,
+        "arr":"deephouse",
+        "loopLength":"414310",
+        "hum":"hum_101010",
+        "vsts":28,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"7"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":4.94,
+        "arr":"legato_staccato_11",
+        "loopLength":"414310",
+        "hum":"hum_101010",
+        "vsts":26,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":8.71,
+        "arr":"melismatic_00",
+        "loopLength":"414310",
+        "hum":"hum_101010",
+        "vsts":25,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.85,
+        "arr":"melismatic_01",
+        "loopLength":"414310",
+        "hum":"hum_101010",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":8.57,
+        "arr":"melismatic_02",
+        "loopLength":"414310",
+        "hum":"hum_101010",
+        "vsts":34,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.37,
+        "arr":"mgmt_kids_alternate",
+        "loopLength":"414310",
+        "hum":"hum_101010",
+        "vsts":27,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.26,
+        "arr":"mgmt_kids",
+        "loopLength":"414310",
+        "hum":"hum_101010",
+        "vsts":33,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":4.46,
+        "arr":"new_room_00",
+        "loopLength":"414310",
+        "hum":"hum_101010",
+        "vsts":21,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"2"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.04,
+        "arr":"new_room_07_la_seine",
+        "loopLength":"414310",
+        "hum":"hum_101010",
+        "vsts":29,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":4.78,
+        "arr":"old_room_09_techno",
+        "loopLength":"414310",
+        "hum":"hum_101010",
+        "vsts":27,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"2"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.43,
+        "arr":"trance",
+        "loopLength":"414310",
+        "hum":"hum_101010",
+        "vsts":31,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.17,
+        "arr":"chillout_room_03",
+        "loopLength":"548769",
+        "hum":"hum_110000",
+        "vsts":32,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.83,
+        "arr":"deephouse2",
+        "loopLength":"548769",
+        "hum":"hum_110000",
+        "vsts":31,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"7"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":8.88,
+        "arr":"deephouse3",
+        "loopLength":"548769",
+        "hum":"hum_110000",
+        "vsts":38,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.9,
+        "arr":"deephouse_disco",
+        "loopLength":"548769",
+        "hum":"hum_110000",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"7"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.2,
+        "arr":"deephouse",
+        "loopLength":"548769",
+        "hum":"hum_110000",
+        "vsts":28,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.6,
+        "arr":"legato_staccato_11",
+        "loopLength":"548769",
+        "hum":"hum_110000",
+        "vsts":26,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":10.63,
+        "arr":"melismatic_00",
+        "loopLength":"548769",
+        "hum":"hum_110000",
+        "vsts":25,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"8"
+            },
+            "Total processing time in s":"10"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.37,
+        "arr":"melismatic_01",
+        "loopLength":"548769",
+        "hum":"hum_110000",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":9.76,
+        "arr":"melismatic_02",
+        "loopLength":"548769",
+        "hum":"hum_110000",
+        "vsts":34,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"6"
+            },
+            "Total processing time in s":"9"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.42,
+        "arr":"mgmt_kids_alternate",
+        "loopLength":"548769",
+        "hum":"hum_110000",
+        "vsts":27,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.22,
+        "arr":"mgmt_kids",
+        "loopLength":"548769",
+        "hum":"hum_110000",
+        "vsts":33,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.11,
+        "arr":"new_room_00",
+        "loopLength":"548769",
+        "hum":"hum_110000",
+        "vsts":21,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"2"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":8.39,
+        "arr":"new_room_07_la_seine",
+        "loopLength":"548769",
+        "hum":"hum_110000",
+        "vsts":29,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"7"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.46,
+        "arr":"old_room_09_techno",
+        "loopLength":"548769",
+        "hum":"hum_110000",
+        "vsts":27,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.2,
+        "arr":"trance",
+        "loopLength":"548769",
+        "hum":"hum_110000",
+        "vsts":31,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.5,
+        "arr":"chillout_room_03",
+        "loopLength":"465668",
+        "hum":"hum_11001",
+        "vsts":32,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.1,
+        "arr":"deephouse2",
+        "loopLength":"465668",
+        "hum":"hum_11001",
+        "vsts":31,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.17,
+        "arr":"deephouse3",
+        "loopLength":"465668",
+        "hum":"hum_11001",
+        "vsts":30,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.19,
+        "arr":"deephouse_disco",
+        "loopLength":"465668",
+        "hum":"hum_11001",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.51,
+        "arr":"deephouse",
+        "loopLength":"465668",
+        "hum":"hum_11001",
+        "vsts":32,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":4.91,
+        "arr":"legato_staccato_11",
+        "loopLength":"465668",
+        "hum":"hum_11001",
+        "vsts":26,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":8.68,
+        "arr":"melismatic_00",
+        "loopLength":"465668",
+        "hum":"hum_11001",
+        "vsts":25,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"6"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.17,
+        "arr":"melismatic_01",
+        "loopLength":"465668",
+        "hum":"hum_11001",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":8.84,
+        "arr":"melismatic_02",
+        "loopLength":"465668",
+        "hum":"hum_11001",
+        "vsts":34,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.73,
+        "arr":"mgmt_kids_alternate",
+        "loopLength":"465668",
+        "hum":"hum_11001",
+        "vsts":27,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.47,
+        "arr":"mgmt_kids",
+        "loopLength":"465668",
+        "hum":"hum_11001",
+        "vsts":33,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":4.6,
+        "arr":"new_room_00",
+        "loopLength":"465668",
+        "hum":"hum_11001",
+        "vsts":21,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"2"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.51,
+        "arr":"new_room_07_la_seine",
+        "loopLength":"465668",
+        "hum":"hum_11001",
+        "vsts":29,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"7"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":4.92,
+        "arr":"old_room_09_techno",
+        "loopLength":"465668",
+        "hum":"hum_11001",
+        "vsts":27,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"2"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.66,
+        "arr":"trance",
+        "loopLength":"465668",
+        "hum":"hum_11001",
+        "vsts":31,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.47,
+        "arr":"chillout_room_03",
+        "loopLength":"440310",
+        "hum":"hum_11111",
+        "vsts":32,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":8.48,
+        "arr":"deephouse2",
+        "loopLength":"440310",
+        "hum":"hum_11111",
+        "vsts":32,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.44,
+        "arr":"deephouse3",
+        "loopLength":"440310",
+        "hum":"hum_11111",
+        "vsts":32,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.94,
+        "arr":"deephouse_disco",
+        "loopLength":"440310",
+        "hum":"hum_11111",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.01,
+        "arr":"deephouse",
+        "loopLength":"440310",
+        "hum":"hum_11111",
+        "vsts":27,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":4.78,
+        "arr":"legato_staccato_11",
+        "loopLength":"440310",
+        "hum":"hum_11111",
+        "vsts":26,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":8.51,
+        "arr":"melismatic_00",
+        "loopLength":"440310",
+        "hum":"hum_11111",
+        "vsts":25,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"6"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.95,
+        "arr":"melismatic_01",
+        "loopLength":"440310",
+        "hum":"hum_11111",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":8.62,
+        "arr":"melismatic_02",
+        "loopLength":"440310",
+        "hum":"hum_11111",
+        "vsts":34,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.46,
+        "arr":"mgmt_kids_alternate",
+        "loopLength":"440310",
+        "hum":"hum_11111",
+        "vsts":27,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.19,
+        "arr":"mgmt_kids",
+        "loopLength":"440310",
+        "hum":"hum_11111",
+        "vsts":33,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":4.51,
+        "arr":"new_room_00",
+        "loopLength":"440310",
+        "hum":"hum_11111",
+        "vsts":21,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"2"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.25,
+        "arr":"new_room_07_la_seine",
+        "loopLength":"440310",
+        "hum":"hum_11111",
+        "vsts":29,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":4.9,
+        "arr":"old_room_09_techno",
+        "loopLength":"440310",
+        "hum":"hum_11111",
+        "vsts":27,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"2"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.52,
+        "arr":"trance",
+        "loopLength":"440310",
+        "hum":"hum_11111",
+        "vsts":31,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.12,
+        "arr":"chillout_room_03",
+        "loopLength":"544726",
+        "hum":"hum_8664",
+        "vsts":32,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.09,
+        "arr":"deephouse2",
+        "loopLength":"544726",
+        "hum":"hum_8664",
+        "vsts":28,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":8.12,
+        "arr":"deephouse3",
+        "loopLength":"544726",
+        "hum":"hum_8664",
+        "vsts":38,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"7"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.95,
+        "arr":"deephouse_disco",
+        "loopLength":"544726",
+        "hum":"hum_8664",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"7"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.13,
+        "arr":"deephouse",
+        "loopLength":"544726",
+        "hum":"hum_8664",
+        "vsts":28,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.35,
+        "arr":"legato_staccato_11",
+        "loopLength":"544726",
+        "hum":"hum_8664",
+        "vsts":26,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":9.93,
+        "arr":"melismatic_00",
+        "loopLength":"544726",
+        "hum":"hum_8664",
+        "vsts":25,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"7"
+            },
+            "Total processing time in s":"9"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.06,
+        "arr":"melismatic_01",
+        "loopLength":"544726",
+        "hum":"hum_8664",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":9.58,
+        "arr":"melismatic_02",
+        "loopLength":"544726",
+        "hum":"hum_8664",
+        "vsts":34,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"6"
+            },
+            "Total processing time in s":"9"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.32,
+        "arr":"mgmt_kids_alternate",
+        "loopLength":"544726",
+        "hum":"hum_8664",
+        "vsts":27,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.12,
+        "arr":"mgmt_kids",
+        "loopLength":"544726",
+        "hum":"hum_8664",
+        "vsts":33,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":4.86,
+        "arr":"new_room_00",
+        "loopLength":"544726",
+        "hum":"hum_8664",
+        "vsts":21,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"2"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":8.24,
+        "arr":"new_room_07_la_seine",
+        "loopLength":"544726",
+        "hum":"hum_8664",
+        "vsts":29,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"7"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.26,
+        "arr":"old_room_09_techno",
+        "loopLength":"544726",
+        "hum":"hum_8664",
+        "vsts":27,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.22,
+        "arr":"trance",
+        "loopLength":"544726",
+        "hum":"hum_8664",
+        "vsts":28,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.52,
+        "arr":"chillout_room_03",
+        "loopLength":"449774",
+        "hum":"hum_8666",
+        "vsts":32,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.1,
+        "arr":"deephouse2",
+        "loopLength":"449774",
+        "hum":"hum_8666",
+        "vsts":27,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.97,
+        "arr":"deephouse3",
+        "loopLength":"449774",
+        "hum":"hum_8666",
+        "vsts":30,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.06,
+        "arr":"deephouse_disco",
+        "loopLength":"449774",
+        "hum":"hum_8666",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":8.24,
+        "arr":"deephouse",
+        "loopLength":"449774",
+        "hum":"hum_8666",
+        "vsts":30,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"7"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":4.93,
+        "arr":"legato_staccato_11",
+        "loopLength":"449774",
+        "hum":"hum_8666",
+        "vsts":26,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":8.94,
+        "arr":"melismatic_00",
+        "loopLength":"449774",
+        "hum":"hum_8666",
+        "vsts":25,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"6"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.24,
+        "arr":"melismatic_01",
+        "loopLength":"449774",
+        "hum":"hum_8666",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":8.66,
+        "arr":"melismatic_02",
+        "loopLength":"449774",
+        "hum":"hum_8666",
+        "vsts":34,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.55,
+        "arr":"mgmt_kids_alternate",
+        "loopLength":"449774",
+        "hum":"hum_8666",
+        "vsts":27,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.32,
+        "arr":"mgmt_kids",
+        "loopLength":"449774",
+        "hum":"hum_8666",
+        "vsts":33,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":4.7,
+        "arr":"new_room_00",
+        "loopLength":"449774",
+        "hum":"hum_8666",
+        "vsts":21,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"2"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.41,
+        "arr":"new_room_07_la_seine",
+        "loopLength":"449774",
+        "hum":"hum_8666",
+        "vsts":29,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":4.97,
+        "arr":"old_room_09_techno",
+        "loopLength":"449774",
+        "hum":"hum_8666",
+        "vsts":27,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"2"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.49,
+        "arr":"trance",
+        "loopLength":"449774",
+        "hum":"hum_8666",
+        "vsts":32,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.83,
+        "arr":"chillout_room_03",
+        "loopLength":"497411",
+        "hum":"hum_8679",
+        "vsts":32,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":9.15,
+        "arr":"deephouse2",
+        "loopLength":"497411",
+        "hum":"hum_8679",
+        "vsts":32,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.11,
+        "arr":"deephouse3",
+        "loopLength":"497411",
+        "hum":"hum_8679",
+        "vsts":34,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.46,
+        "arr":"deephouse_disco",
+        "loopLength":"497411",
+        "hum":"hum_8679",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.87,
+        "arr":"deephouse",
+        "loopLength":"497411",
+        "hum":"hum_8679",
+        "vsts":29,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"7"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.13,
+        "arr":"legato_staccato_11",
+        "loopLength":"497411",
+        "hum":"hum_8679",
+        "vsts":26,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":9.1,
+        "arr":"melismatic_00",
+        "loopLength":"497411",
+        "hum":"hum_8679",
+        "vsts":25,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"6"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.53,
+        "arr":"melismatic_01",
+        "loopLength":"497411",
+        "hum":"hum_8679",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":9.12,
+        "arr":"melismatic_02",
+        "loopLength":"497411",
+        "hum":"hum_8679",
+        "vsts":34,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"6"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.17,
+        "arr":"mgmt_kids_alternate",
+        "loopLength":"497411",
+        "hum":"hum_8679",
+        "vsts":27,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.83,
+        "arr":"mgmt_kids",
+        "loopLength":"497411",
+        "hum":"hum_8679",
+        "vsts":33,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":4.85,
+        "arr":"new_room_00",
+        "loopLength":"497411",
+        "hum":"hum_8679",
+        "vsts":21,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"2"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.84,
+        "arr":"new_room_07_la_seine",
+        "loopLength":"497411",
+        "hum":"hum_8679",
+        "vsts":29,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"7"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.14,
+        "arr":"old_room_09_techno",
+        "loopLength":"497411",
+        "hum":"hum_8679",
+        "vsts":27,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"2"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.65,
+        "arr":"trance",
+        "loopLength":"497411",
+        "hum":"hum_8679",
+        "vsts":31,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.75,
+        "arr":"chillout_room_03",
+        "loopLength":"491485",
+        "hum":"hum_8697",
+        "vsts":32,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.08,
+        "arr":"deephouse2",
+        "loopLength":"491485",
+        "hum":"hum_8697",
+        "vsts":28,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.33,
+        "arr":"deephouse3",
+        "loopLength":"491485",
+        "hum":"hum_8697",
+        "vsts":30,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.36,
+        "arr":"deephouse_disco",
+        "loopLength":"491485",
+        "hum":"hum_8697",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":8.53,
+        "arr":"deephouse",
+        "loopLength":"491485",
+        "hum":"hum_8697",
+        "vsts":30,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.05,
+        "arr":"legato_staccato_11",
+        "loopLength":"491485",
+        "hum":"hum_8697",
+        "vsts":26,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":8.96,
+        "arr":"melismatic_00",
+        "loopLength":"491485",
+        "hum":"hum_8697",
+        "vsts":25,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"6"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.5,
+        "arr":"melismatic_01",
+        "loopLength":"491485",
+        "hum":"hum_8697",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":9.0,
+        "arr":"melismatic_02",
+        "loopLength":"491485",
+        "hum":"hum_8697",
+        "vsts":34,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"6"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.88,
+        "arr":"mgmt_kids_alternate",
+        "loopLength":"491485",
+        "hum":"hum_8697",
+        "vsts":27,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.65,
+        "arr":"mgmt_kids",
+        "loopLength":"491485",
+        "hum":"hum_8697",
+        "vsts":33,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":4.81,
+        "arr":"new_room_00",
+        "loopLength":"491485",
+        "hum":"hum_8697",
+        "vsts":21,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"2"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.68,
+        "arr":"new_room_07_la_seine",
+        "loopLength":"491485",
+        "hum":"hum_8697",
+        "vsts":29,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"7"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.16,
+        "arr":"old_room_09_techno",
+        "loopLength":"491485",
+        "hum":"hum_8697",
+        "vsts":27,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.32,
+        "arr":"trance",
+        "loopLength":"491485",
+        "hum":"hum_8697",
+        "vsts":29,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.18,
+        "arr":"chillout_room_03",
+        "loopLength":"530945",
+        "hum":"hum_8707",
+        "vsts":32,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.83,
+        "arr":"deephouse2",
+        "loopLength":"530945",
+        "hum":"hum_8707",
+        "vsts":28,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.89,
+        "arr":"deephouse3",
+        "loopLength":"530945",
+        "hum":"hum_8707",
+        "vsts":32,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"7"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.79,
+        "arr":"deephouse_disco",
+        "loopLength":"530945",
+        "hum":"hum_8707",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"7"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.21,
+        "arr":"deephouse",
+        "loopLength":"530945",
+        "hum":"hum_8707",
+        "vsts":25,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.48,
+        "arr":"legato_staccato_11",
+        "loopLength":"530945",
+        "hum":"hum_8707",
+        "vsts":26,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":10.29,
+        "arr":"melismatic_00",
+        "loopLength":"530945",
+        "hum":"hum_8707",
+        "vsts":25,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"7"
+            },
+            "Total processing time in s":"9"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.21,
+        "arr":"melismatic_01",
+        "loopLength":"530945",
+        "hum":"hum_8707",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":9.82,
+        "arr":"melismatic_02",
+        "loopLength":"530945",
+        "hum":"hum_8707",
+        "vsts":34,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"6"
+            },
+            "Total processing time in s":"9"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.32,
+        "arr":"mgmt_kids_alternate",
+        "loopLength":"530945",
+        "hum":"hum_8707",
+        "vsts":27,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.17,
+        "arr":"mgmt_kids",
+        "loopLength":"530945",
+        "hum":"hum_8707",
+        "vsts":33,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.15,
+        "arr":"new_room_00",
+        "loopLength":"530945",
+        "hum":"hum_8707",
+        "vsts":21,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"2"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":8.12,
+        "arr":"new_room_07_la_seine",
+        "loopLength":"530945",
+        "hum":"hum_8707",
+        "vsts":29,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"7"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.41,
+        "arr":"old_room_09_techno",
+        "loopLength":"530945",
+        "hum":"hum_8707",
+        "vsts":27,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.91,
+        "arr":"trance",
+        "loopLength":"530945",
+        "hum":"hum_8707",
+        "vsts":29,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.22,
+        "arr":"chillout_room_03",
+        "loopLength":"409578",
+        "hum":"hum_8767",
+        "vsts":32,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.76,
+        "arr":"deephouse2",
+        "loopLength":"409578",
+        "hum":"hum_8767",
+        "vsts":28,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.95,
+        "arr":"deephouse3",
+        "loopLength":"409578",
+        "hum":"hum_8767",
+        "vsts":38,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.61,
+        "arr":"deephouse_disco",
+        "loopLength":"409578",
+        "hum":"hum_8767",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.62,
+        "arr":"deephouse",
+        "loopLength":"409578",
+        "hum":"hum_8767",
+        "vsts":27,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":4.58,
+        "arr":"legato_staccato_11",
+        "loopLength":"409578",
+        "hum":"hum_8767",
+        "vsts":26,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"2"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":8.46,
+        "arr":"melismatic_00",
+        "loopLength":"409578",
+        "hum":"hum_8767",
+        "vsts":25,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"6"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.82,
+        "arr":"melismatic_01",
+        "loopLength":"409578",
+        "hum":"hum_8767",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":8.33,
+        "arr":"melismatic_02",
+        "loopLength":"409578",
+        "hum":"hum_8767",
+        "vsts":34,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"7"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.22,
+        "arr":"mgmt_kids_alternate",
+        "loopLength":"409578",
+        "hum":"hum_8767",
+        "vsts":27,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.93,
+        "arr":"mgmt_kids",
+        "loopLength":"409578",
+        "hum":"hum_8767",
+        "vsts":33,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":4.41,
+        "arr":"new_room_00",
+        "loopLength":"409578",
+        "hum":"hum_8767",
+        "vsts":21,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"2"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.96,
+        "arr":"new_room_07_la_seine",
+        "loopLength":"409578",
+        "hum":"hum_8767",
+        "vsts":29,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":4.71,
+        "arr":"old_room_09_techno",
+        "loopLength":"409578",
+        "hum":"hum_8767",
+        "vsts":27,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"2"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.52,
+        "arr":"trance",
+        "loopLength":"409578",
+        "hum":"hum_8767",
+        "vsts":33,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.04,
+        "arr":"chillout_room_03",
+        "loopLength":"518588",
+        "hum":"tap_12345",
+        "vsts":32,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.3,
+        "arr":"deephouse2",
+        "loopLength":"518588",
+        "hum":"tap_12345",
+        "vsts":31,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.91,
+        "arr":"deephouse3",
+        "loopLength":"518588",
+        "hum":"tap_12345",
+        "vsts":38,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"7"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.55,
+        "arr":"deephouse_disco",
+        "loopLength":"518588",
+        "hum":"tap_12345",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"7"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":9.26,
+        "arr":"deephouse",
+        "loopLength":"518588",
+        "hum":"tap_12345",
+        "vsts":31,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"6"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.42,
+        "arr":"legato_staccato_11",
+        "loopLength":"518588",
+        "hum":"tap_12345",
+        "vsts":26,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":9.88,
+        "arr":"melismatic_00",
+        "loopLength":"518588",
+        "hum":"tap_12345",
+        "vsts":25,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"7"
+            },
+            "Total processing time in s":"9"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.08,
+        "arr":"melismatic_01",
+        "loopLength":"518588",
+        "hum":"tap_12345",
+        "vsts":39,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":9.33,
+        "arr":"melismatic_02",
+        "loopLength":"518588",
+        "hum":"tap_12345",
+        "vsts":34,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"6"
+            },
+            "Total processing time in s":"8"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":6.24,
+        "arr":"mgmt_kids_alternate",
+        "loopLength":"518588",
+        "hum":"tap_12345",
+        "vsts":27,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"5"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.04,
+        "arr":"mgmt_kids",
+        "loopLength":"518588",
+        "hum":"tap_12345",
+        "vsts":33,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"4"
+            },
+            "Total processing time in s":"6"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":4.92,
+        "arr":"new_room_00",
+        "loopLength":"518588",
+        "hum":"tap_12345",
+        "vsts":21,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"2"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":7.97,
+        "arr":"new_room_07_la_seine",
+        "loopLength":"518588",
+        "hum":"tap_12345",
+        "vsts":29,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"2",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"5"
+            },
+            "Total processing time in s":"7"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.37,
+        "arr":"old_room_09_techno",
+        "loopLength":"518588",
+        "hum":"tap_12345",
+        "vsts":27,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    },
+    {
+        "totalTime":5.3,
+        "arr":"trance",
+        "loopLength":"518588",
+        "hum":"tap_12345",
+        "vsts":30,
+        "Benchmarks":{
+            "Breakdown":{
+                "Output Source":"0",
+                "Initialization":"1",
+                "Input Source":"0",
+                "MIDI Processing":"0",
+                "Audio Processing":"3"
+            },
+            "Total processing time in s":"4"
+        },
+        "genre":"electro"
+    }
+]
