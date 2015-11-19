@@ -6,6 +6,10 @@ import numpy as np
 import pdb
 
 PATH_TO_DATA = ["data/electro_output.txt", "data/rock_output.txt", "data/hiphop_output.txt"]
+sum_arrangements = False
+
+def avg(li):
+    return sum(li) / float(len(li))
 
 def loadData(path):
     data = []
@@ -15,40 +19,56 @@ def loadData(path):
 
     return data
 
-def main():
-    rawData = loadData(PATH_TO_DATA)
+def splitDataByArrangement(rawData):
+    # Returns a dictionary of arrays:
+    # data = {arr1: [render1, render2...], arr2: [render1, render2...], ...}
 
     data = {}
     for project in rawData:
+        # Create entry if it does not exist
         if project['arr'] not in data:
             data[project['arr']] = []
-        #     data[project['arr']] = {
-        #         'totalTime': float(project['totalTime']),
-        #         'loopLength': float(project['loopLength']),
-        #         'vsts': float(project['vsts']),
-        #         'genre': project['genre'],
-        #         'init_time': float(project['Benchmarks']['Breakdown']['Initialization']),
-        #         'audio_time': float(project['Benchmarks']['Breakdown']['Audio Processing']),
-        #         'hum': project['hum']
-        #         'numRenders': 1
-        #     }
-        # else:
-        #     data[project['arr']]['totalTime'] += float(project['totalTime'])
-        #     data[project['arr']]['loopLength'] += float(project['loopLength'])
-        #     data[project['arr']]['vsts'] += float(project['vsts'])
-        #     data[project['arr']]['init_time'] += float(project['Benchmarks']['Breakdown']['Initialization'])
-        #     data[project['arr']]['audio_time'] += float(project['Benchmarks']['Breakdown']['Audio Processing'])
-        #     data[project['arr']]['numRenders'] += 1
         dataToAdd = {
             'totalTime': float(project['totalTime']),
             'loopLength': float(project['loopLength']),
             'vsts': float(project['vsts']),
             'hum': project['hum'],
             'genre': project['genre'],
-            'init_time': float(project['Benchmarks']['Breakdown']['Initialization']),
-            'audio_time': float(project['Benchmarks']['Breakdown']['Audio Processing'])
+            'times': {
+                'init': float(project['Benchmarks']['Breakdown']['Initialization']),
+                'audio': float(project['Benchmarks']['Breakdown']['Audio Processing']),
+                'other': float(project['Benchmarks']['Total processing time in s']) 
+                    - float(project['Benchmarks']['Breakdown']['Initialization']) 
+                    - float(project['Benchmarks']['Breakdown']['Audio Processing'])
+            }
         }
-        data[project['arr']].append(dataToAdd)
+    data[project['arr']].append(dataToAdd)
+
+    return data
+
+def averageArrangmentData(data):
+    # data = {arr1: [render1, render2...], arr2: [render1, render2...], ...}
+    # Adds together parameters of each rendering
+    # return avgData = {arr1: {'totalTime': 8, 'vsts': 20 ...}, arr2: {'totalTime':20, 'vsts': 15 ...}, ...}
+
+    avgData = {}
+    for arr in data:
+        avgData[arr] = { 'genre': data[arr][0]['genre'] }
+        avgData[arr]['totalTime']       = avg( [d['totalTime'] for d in data[arr]] )
+        avgData[arr]['loopLength']      = avg( [d['loopLength'] for d in data[arr]] )
+        avgData[arr]['vsts']            = avg( [d['vsts'] for d in data[arr]] )
+        avgData[arr]['times']           = {
+                'init' : avg( d['init'] for d in data[arr]['times']),
+                'audio' : avg( d['audio'] for d in data[arr]['times']),
+                'other' : avg( d['other'] for d in data[arr]['times'])
+        }
+    return avgData
+
+def main():
+    rawData = loadData(PATH_TO_DATA)
+
+    rawData = splitDataByArrangement(rawData)
+    avgData = averageArrangmentData(rawData)
 
     graphData = []
     for arr in data:
