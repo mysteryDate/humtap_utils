@@ -26,6 +26,7 @@ def main():
                 'totalTime': datum['totalTime'],
                 'loopLength': datum['loopLength'],
                 'vsts': datum['vsts'],
+                'genre': datum['genre'],
                 # 'hum': datum['hum']
                 'numRenders': 1
             }
@@ -52,13 +53,16 @@ def main():
     #         # text = ["Hum:\t"+d['hum']+"<br>Length:\t"+str(round(float(d['loopLength'])/44100,2))+"s" for d in arrangementData[arr]]
     #     )
     #     graphData.append(trace)
-    trace = go.Scatter(
-        x = [d['vsts']/d['numRenders'] for d in arrangementData.values()],
-        y = [d['totalTime']/d['numRenders'] for d in arrangementData.values()],
-        mode = 'markers',
-        text = [d for d in arrangementData]
-    )
-    graphData.append(trace)
+    genres = ['electro','rock','hiphop']
+    for genre in genres:
+        trace = go.Scatter(
+            x = [float(d['vsts'])/d['numRenders'] for d in arrangementData.values() if d['genre'] == genre],
+            y = [d['totalTime']/d['numRenders'] for d in arrangementData.values() if d['genre'] == genre],
+            mode = 'markers',
+            name = genre,
+            text = [d for d in arrangementData if arrangementData[d]['genre'] == genre]
+        )
+        graphData.append(trace)
 
     layout = go.Layout(
         title='Render times by number of VSTs by arrangement',
@@ -74,6 +78,6 @@ def main():
     py.sign_in("MysteryDate", "a6fd7sm5jr")
 
     fig = go.Figure(data=graphData, layout=layout)
-    plot_url = py.plot(fig, filename="Render times by vsts for all genres (averaged)")
+    plot_url = py.plot(fig, filename="Render times by vsts for all arrangements by genre (averaged)")
 
 main()
